@@ -1,0 +1,16 @@
+# Binaries
+bin/*
+obj/*
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Shortcuts
+*.lnk
+
+# Eclipse Metadata
+.project
+.classpath
+.settings/
